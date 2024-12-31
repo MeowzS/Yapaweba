@@ -1,0 +1,55 @@
+/* Reset dasar */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Gaya umum untuk body */
+body {
+  font-family: sans-serif;
+  background: #f8f8f8;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background: #2ecc71;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Bagian Ejekan */
+#ddos-warning {
+  background: #fcf8e3;
+  border: 1px solid #fbeed5;
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 600px;
+  text-align: center;
+}
+
+/* Konten utama */
+section {
+  max-width: 800px;
+  margin: 1rem auto;
+  padding: 0 1rem;
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background: #eee;
+  padding: 1rem;
+  margin-top: 2rem;
+}
